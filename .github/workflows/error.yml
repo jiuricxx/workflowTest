@@ -1,0 +1,6 @@
+name: error
+
+on:
+  push
+
+xxx:xxx
